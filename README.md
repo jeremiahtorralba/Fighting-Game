@@ -1,8 +1,9 @@
 # Fighting Game
 Fighting Game - C++ and SDL2
 
-![Enemy Defending Attack with jump](https://user-images.githubusercontent.com/28037427/218172815-d77ac498-35dd-4dc2-81b0-96845a98ec1b.jpg)
+![Enemy Defending Attack with jump](https://github.com/user-attachments/assets/e4eaea3d-9d1d-45e4-8f2d-cad57f69133f)
 
-![Enemy Defending with another defensive technique](https://user-images.githubusercontent.com/28037427/218172832-51e6a065-ac27-4141-8032-fc82464bcf5e.jpg)
 
-![Enemy Attack within range](https://user-images.githubusercontent.com/28037427/218172847-a73e38ed-c5bb-4b25-9fa2-b60c3dd94a1d.jpg)
+![Enemy Defending with another defensive technique](https://github.com/user-attachments/assets/8a7c5519-fb4f-414d-969b-19ecd7138dce)
+
+![Enemy Attack within range](https://github.com/user-attachments/assets/7a3240ac-3d03-4cb1-938c-067c85ed33a1)
